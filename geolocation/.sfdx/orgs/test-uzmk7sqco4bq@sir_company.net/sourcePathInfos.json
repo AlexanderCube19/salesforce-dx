@@ -2,14 +2,14 @@
     [
         "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1515773774303,
             "changeTime": 1515773774303,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1515773774303,
             "changeTime": 1515773774303,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -37,26 +37,23 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1517566458661,
-            "changeTime": 1517566458661,
-            "contentHash": "21561c98dfd0fecdde9706dde46e536247b50732",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "modifiedTime": 1517587139590,
+            "changeTime": 1517587139590,
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
         }
     ],
     [
         "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\aura",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1515773774303,
-            "changeTime": 1515773774303,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "modifiedTime": 1517569237771,
+            "changeTime": 1517569237771,
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -65,26 +62,25 @@
             "sourcePath": "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1515776522838,
-            "changeTime": 1515776522838,
-            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "modifiedTime": 1517568137962,
+            "changeTime": 1517568137962,
+            "contentHash": "aeef2c12ce6e7b39fb504f4bb604595bd05a7f33",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "isWorkspace": true
         }
     ],
     [
         "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 403,
             "modifiedTime": 1517504391904,
             "changeTime": 1517504391904,
             "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -92,14 +88,14 @@
     [
         "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9708,
             "modifiedTime": 1517504391913,
             "changeTime": 1517504391913,
             "contentHash": "e85a88e4c79b0e49351c7fe72875a0a96c157ce7",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -107,14 +103,14 @@
     [
         "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9708,
             "modifiedTime": 1517504391921,
             "changeTime": 1517504391921,
             "contentHash": "a6fc0c32caef3a798eea4f544a2000fc429aeb77",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -122,14 +118,14 @@
     [
         "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9756,
             "modifiedTime": 1517504391928,
             "changeTime": 1517504391928,
             "contentHash": "94142c6ea19df359d8f2398924816a5498afc02e",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -137,14 +133,14 @@
     [
         "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9756,
             "modifiedTime": 1517504391933,
             "changeTime": 1517504391933,
             "contentHash": "0ac2903745d3402a3279ba45b246c5286914d16d",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -152,14 +148,14 @@
     [
         "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 366,
             "modifiedTime": 1517504391936,
             "changeTime": 1517504391936,
             "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -167,14 +163,14 @@
     [
         "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1517504391904,
             "changeTime": 1517504391904,
             "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -182,14 +178,14 @@
     [
         "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\objects\\Account",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\objects\\Account",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1517504391903,
             "changeTime": 1517504391903,
             "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -197,14 +193,14 @@
     [
         "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\objects",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1517504391902,
             "changeTime": 1517504391902,
             "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -212,14 +208,14 @@
     [
         "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\layouts",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1517504391933,
             "changeTime": 1517504391933,
             "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -227,14 +223,14 @@
     [
         "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\permissionsets",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1517504391935,
             "changeTime": 1517504391935,
             "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -242,14 +238,14 @@
     [
         "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\classes",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1517566458680,
             "changeTime": 1517566458680,
             "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -257,14 +253,14 @@
     [
         "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 345,
             "modifiedTime": 1517567506161,
             "changeTime": 1517567506161,
             "contentHash": "7f0931d389777cd899e09a9c1a5b3e929acbb172",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -272,16 +268,237 @@
     [
         "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1517566458680,
             "changeTime": 1517566458680,
             "contentHash": "cc0a2dcbacbf3621f3b3ac19658879090926c15f",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
+        {
+            "sourcePath": "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1517569237778,
+            "changeTime": 1517569237778,
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
+        {
+            "sourcePath": "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1517569237777,
+            "changeTime": 1517569237777,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+        {
+            "sourcePath": "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+            "isDirectory": false,
+            "size": 155,
+            "modifiedTime": 1517569261676,
+            "changeTime": 1517569261676,
+            "contentHash": "4973781b6f5a7cdf3300fcbd0f4e944ff3c6df45",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 246,
+            "modifiedTime": 1517569237773,
+            "changeTime": 1517569237773,
+            "contentHash": "652875ccc6ba6e08028b1aa51773d72e376e436f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+        {
+            "sourcePath": "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+            "isDirectory": false,
+            "size": 132,
+            "modifiedTime": 1517586711893,
+            "changeTime": 1517586711893,
+            "contentHash": "6eb76ff4d3dde4d4383dea4d0dfab474d2f056b6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
+        {
+            "sourcePath": "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1517569237778,
+            "changeTime": 1517569237778,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
+        {
+            "sourcePath": "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1517569237777,
+            "changeTime": 1517569237777,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+        {
+            "sourcePath": "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1517569237774,
+            "changeTime": 1517569237774,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+        {
+            "sourcePath": "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1517569237775,
+            "changeTime": 1517569237775,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+        {
+            "sourcePath": "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1517569237776,
+            "changeTime": 1517569237776,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 267,
+            "modifiedTime": 1517587139586,
+            "changeTime": 1517587139586,
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
+        }
+    ],
+    [
+        "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4457,
+            "modifiedTime": 1517587139591,
+            "changeTime": 1517587139591,
+            "contentHash": "b07203be5b54f0b386be1f56467864b68e67c390"
+        }
+    ],
+    [
+        "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4797,
+            "modifiedTime": 1517587139596,
+            "changeTime": 1517587139596,
+            "contentHash": "8cf9ff9aa4943adae1d59512fb0d4ca8b2dcfbf9"
+        }
+    ],
+    [
+        "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4461,
+            "modifiedTime": 1517587139601,
+            "changeTime": 1517587139601,
+            "contentHash": "73ad8397e6863de42f0fd812a59698623ba7af38"
+        }
+    ],
+    [
+        "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17142,
+            "modifiedTime": 1517587139615,
+            "changeTime": 1517587139615,
+            "contentHash": "1b19f77b701bcc419030905bb142e2d48c6eab14"
+        }
+    ],
+    [
+        "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1517587139586,
+            "changeTime": 1517587139586,
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
+        }
+    ],
+    [
+        "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\sir\\.babun\\cygwin\\home\\sir\\salesforce-dx\\geolocation\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1517587139614,
+            "changeTime": 1517587139614,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]
